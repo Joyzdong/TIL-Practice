@@ -5,12 +5,10 @@ Python==3.11
 
 ## How to start
 $ git clone https://github.com/Joyzdong/TIL-Practice.git
+
 $ cd TIL-Practice
 
-
 ## Installation
-
-or
 
 $ pip install -r requirements.txt
 
